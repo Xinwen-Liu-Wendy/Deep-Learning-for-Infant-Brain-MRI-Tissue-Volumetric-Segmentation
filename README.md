@@ -13,10 +13,10 @@ All the necessary codes for data loading, data preprocessing, model construction
 
 ## Performance
 **Quantitative performance:** <br>
-With transfer learning, the model achieved an average dice score of 0.908, with the individual score for WM, GM, CSF shown below.
-<img src="./dice_score.png" alt="alt text" width="600" height="450">
+With transfer learning, the model achieved an average dice score of 0.908, with the individual score for WM, GM, CSF shown below.<br>
+<img src="./dice_score.png" alt="alt text" width="600" height="400">
 **Qualitative performance:** <br>
-The segmentation images of the volumetric data is shown below. The predicted mask agrees well with the ground truth (mask).
+The segmentation images of the volumetric data is shown below. The predicted mask agrees well with the ground truth (mask). <br>
 <img src="./3Dseg_visualization.png" alt="alt text" width="800" height="800">
 
 
